@@ -1,0 +1,38 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "au.com.medibank.phs",
+      "sha256_cert_fingerprints": [
+        "10:F4:AE:63:1C:13:D6:CA:08:11:28:11:D3:4B:0A:20:4D:72:9A:08:8C:FB:E4:E2:26:78:D6:0B:69:57:0E:3F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "au.com.medibank.phs.alpha",
+      "sha256_cert_fingerprints": [
+        "5B:62:2D:3B:AF:FC:15:72:89:38:91:58:30:E4:C4:80:BD:5D:B3:90:77:8F:EE:7A:2D:18:00:05:EA:96:69:89"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "au.com.medibank.phs.beta",
+      "sha256_cert_fingerprints": [
+        "5B:62:2D:3B:AF:FC:15:72:89:38:91:58:30:E4:C4:80:BD:5D:B3:90:77:8F:EE:7A:2D:18:00:05:EA:96:69:89"
+      ]
+    }
+  }
+]
